@@ -1,3 +1,15 @@
+
+
+//--------------------github---------------------------------------------------
+//git remote add origin https://github.com/Vitalii031095/js-ptactics.git
+//git branch -M main
+//git push -u origin main
+
+
+//-----------------------------------------------------------------------
+// подивитися які були коміти
+//git log
+
 // git config --local user.name "Vitalii"
 //git config --local user.email kvazik95@gmail.com
 //git config --global user.email kvazik95@gmail.com
